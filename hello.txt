@@ -1,0 +1,2 @@
+this is the file
+writingto the file wile overwrite its contents.
